@@ -14,7 +14,7 @@ namespace TesterApp
 
         static void Main(string[] args)
         {
-            /*
+            /* MSFT support case # 117041715610459 (resolved)
            Scenario
 
            - 2 consumer queues (unsubscribingfromevent.subscriber1 and unsubscribingfromevent.subscriber2)
